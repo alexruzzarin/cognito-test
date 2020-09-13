@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognitotest-dev-13020-authRole",
+      "UnauthRoleArn": "arn:aws:iam::110290542132:role/amplify-cognitotest-dev-13020-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::110290542132:role/amplify-cognitotest-dev-13020-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cognitotest-dev-13020-deployment",
+      "UnauthRoleName": "amplify-cognitotest-dev-13020-unauthRole",
+      "StackName": "amplify-cognitotest-dev-13020",
+      "StackId": "arn:aws:cloudformation:us-east-1:110290542132:stack/amplify-cognitotest-dev-13020/37cfcba0-f582-11ea-a4db-12843ea8a65b",
+      "AmplifyAppId": "dmzc4797cw70l"
+    },
+    "categories": {
+      "auth": {
+        "cognitotest82f85821": {
+          "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"200544307727395\",\"client_secret\":\"997494e261ee479a8a0ec3e4ff8d5249\"},{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"amzn1.application-oa2-client.7bfb1987cf7645348e4d6fe16ef16e7c\",\"client_secret\":\"d78a714a6f8073b3bfe86280ca634cf4a365144300629895f03839a62215bebf\"}]"
+        }
+      }
+    }
+  }
+}
